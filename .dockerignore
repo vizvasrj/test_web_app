@@ -1,0 +1,5 @@
+# Exclude the following files from the Docker build context
+Dockerfile
+.dockerignore
+*.md
+*.git
